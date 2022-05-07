@@ -1,5 +1,4 @@
-<h1 align="center">Hello World!👋 </h1>
-<h1 align="center">It's youngmemo!</h1>
+<h1 align="center">Hello World!👋 </h1> <br> It's youngmemo!</h1>
 <h3 align="center">I am an IT student soon to be done with my bachelorgrade. My aim is to be a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younngmemo&label=Profile%20views&color=0e75b6&style=flat" alt="younngmemo" /> </p>
