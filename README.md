@@ -5,7 +5,7 @@
 
 - 👨‍👩‍👦‍👦 I'm originally from **Turkey** 🇹🇷
 
-- 💻 If you do need someone to your mind-blowing project, I am by any means down to contribute on it
+- 💻 If you need someone to your mind-blowing project, I am by any means down to contribute on it
 
 - 🎓 I’m currently studying **IT and information systems, bahchelor at University of Agder**
 
