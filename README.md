@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younngmemo&label=Profile%20views&color=0e75b6&style=flat" alt="younngmemo" /> </p>
 
-- 🧑🏽‍🦱 I am living in **Kristiansand, Norway** 🇳🇴
+- 🧑🏽‍🦱 I'm living in **Kristiansand, Norway** 🇳🇴
 
-- 👨‍👩‍👦‍👦 I am originally from **Turkey** 🇹🇷
+- 👨‍👩‍👦‍👦 I'm originally from **Turkey** 🇹🇷
 
 - 🎓 I’m currently studying **IT and information systems, bahchelor at University of Agder.**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at (not done yet) [https://mehmeteksi.com/](https://mehmeteksi.com/)
 
-- 💬 Ask me about anything, I am here to help but also to learn from you
+- 💬 Ask me about anything, I'm here to help but also to learn from you
 
 - 📫 You can reach me on mail: **mehmeteksi99@hotmail.com**
 
