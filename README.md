@@ -7,7 +7,7 @@
 
 - 💻 If you need someone to your mind-blowing project, I am by any means down to contribute on it
 
-- 🎓 I’m currently studying **IT and information systems, bahchelor at University of Agder**
+- 🎓 I’m currently studying **IT and information systems, bahchelor at [University of Agder](https://www.uia.no/en)**
 
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
 
