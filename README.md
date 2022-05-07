@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, <br> It's youngmemo 👋</h1>
-<h3 align="center">I'm an IT student soon to be done with my bachelorgrade. My aim is to be a full-stack developer.</h3>
+<h3 align="center">I'm an IT student soon to be done with my bachelorgrade. <br> My aim is to be a full-stack developer.</h3>
 
 - 🧑🏽‍🦱 I'm living in **Kristiansand, Norway** 🇳🇴
 
