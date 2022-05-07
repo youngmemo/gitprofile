@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, <br> It's youngmemo 👋</h1>
-<h3 align="center">I am an IT student soon to be done with my bachelorgrade. My aim is to be a full-stack developer.</h3>
+<h3 align="center">I'm an IT student soon to be done with my bachelorgrade. My aim is to be a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younngmemo&label=Profile%20views&color=0e75b6&style=flat" alt="younngmemo" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 👨‍👩‍👦‍👦 I'm originally from **Turkey** 🇹🇷
 
-- 🎓 I’m currently studying **IT and information systems, bahchelor at University of Agder.**
+- 🎓 I’m currently studying **IT and information systems, bahchelor at University of Agder**
 
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
 
 - 🌱 I’m currently learning a few languages: **JS, React, Python and Django**
 
-- 👨‍💻 All of my projects are available at (not done yet) [https://mehmeteksi.com/](https://mehmeteksi.com/)
+- 👨‍💻 My website for my portfolio (not done yet) [https://mehmeteksi.com/](https://mehmeteksi.com/)
 
 - 💬 Ask me about anything, I'm here to help but also to learn from you
 
