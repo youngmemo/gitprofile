@@ -5,6 +5,8 @@
 
 - 👨‍👩‍👦‍👦 I'm originally from **Turkey** 🇹🇷
 
+- 💻 If you do need someone to your mind-blowing project, I am by any means down to contribute on it
+
 - 🎓 I’m currently studying **IT and information systems, bahchelor at University of Agder**
 
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
