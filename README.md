@@ -1,5 +1,5 @@
 <h1 align="center">Oh hello there 👋 <br> It's Mehmet Eksi, but you can call me Memo. </h1>
-<h3 align="center">I'm an IT student soon to be done with my bachelorgrade. <br> My aim is to be a full-stack developer.</h3>
+<h3 align="center">I'm an IT student soon to be done with my bachelorgrade. <br> My goal is to be a full-stack developer.</h3>
 
 - 🧑🏽‍🦱 I'm living in **Kristiansand, Norway** 🇳🇴
 
