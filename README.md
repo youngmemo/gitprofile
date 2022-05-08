@@ -11,7 +11,7 @@
 
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
 
-- 🌱 I’m currently learning a few languages: **JS, React, Python and Django**
+- 🌱 I’m currently learning a few languages: **JS, PL/SQL, Java and Python**
 
 - 👨‍💻 My [website](https://mehmeteksi.com/) (not done yet)
 
