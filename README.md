@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning a few languages: **JS, PL/SQL, Java and Python**
 
-- 👨‍💻 My [website](https://mehmeteksi.com/) (not done yet), I am gonna transfer over to .dev really soon.
+- 👨‍💻 My [website](https://mehmeteksi.com/) (not done yet)
 
 
 - 💬 Ask me about anything, I'm here to help but also to learn from you
