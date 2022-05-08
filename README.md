@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning a few languages: **JS, React, Python and Django**
 
-- 👨‍💻 My [website](https://mehmeteksi.com/) for my portfolio (not done yet)
+- 👨‍💻 My [website](https://mehmeteksi.com/) (not done yet)
 
 
 - 💬 Ask me about anything, I'm here to help but also to learn from you
