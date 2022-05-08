@@ -18,7 +18,7 @@
 
 - 💬 Ask me about anything, I'm here to help but also to learn from you
 
-- 📫 You can reach me on mail: **mehmeteksi99@hotmail.com**
+- 📫 You can reach me on mail: <MAILTO:contact@mehmeteksi.dev>
 
 - 📄 My [LinkedIn](https://www.linkedin.com/in/mehmeteksi/) profile
 
