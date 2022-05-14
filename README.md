@@ -4,25 +4,17 @@
 
 ![Banner logo](/banner.jpg)
 
+<h3> 🧑🏼‍🎓 Some general information: </h3>
+
 - 🧑🏽‍🦱 I'm living in **Kristiansand, Norway** 🇳🇴
-
 - 👨‍👩‍👦‍👦 I'm originally from **Turkey** 🇹🇷
-
 - 💻 If you need someone to your mind-blowing project, I am by any means down to contribute on it
-
 - 🎓 I’m currently studying **IT and information systems, bachelor at [University of Agder](https://www.uia.no/en)**
-
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
-
 - 🌱 I’m currently learning a few languages: **JS, PL/SQL, Java and Python**
-
 - 👨‍💻 My [website](https://mehmeteksi.com/) (not done yet)
-
-
 - 💬 Ask me about anything, I'm here to help but also to learn from you
-
 - 📫 You can reach me on <contact@mehmeteksi.dev>
-
 - 📄 My [LinkedIn](https://www.linkedin.com/in/mehmeteksi/) profile
 
 <h3 align="left">Languages and tools I've worked with:</h3>
