@@ -7,7 +7,7 @@
 <h3> 🧑🏼‍🎓 Some general information: </h3>
 
 - 🧑🏽‍ I'm living in **Kristiansand, Norway** 🇳🇴
-- 👨‍👩‍👦‍👦 I'm originally from **Turkey** 🇹🇷
+- 👨‍👩‍👦‍👦 I'm originally from **Amasya, Turkey** 🇹🇷
 - 💻 If you need someone to your mind-blowing project, I am by any means down to contribute on it
 - 🎓 I’m currently studying **IT and information systems, bachelor at [University of Agder](https://www.uia.no/en)**
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
