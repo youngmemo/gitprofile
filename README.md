@@ -11,7 +11,7 @@
 - 💻 If you need someone to your mind-blowing project, I am by any means down to contribute on it
 - 🎓 I’m currently studying **IT and information systems, bachelor at [University of Agder](https://www.uia.no/en)**
 - 🏄🏽‍♂️ I have many hobbies, a few of them is **tech, gaming, travelling and working out in the gym**
-- 🌱 I’m currently learning a few languages: **JS, PL/SQL, Java and Python**
+- 🌱 I’m currently learning a few languages: **React, C#, .NET, PHP**
 - 👨‍💻 My [website](https://mehmeteksi.com/) (not done yet)
 - 💬 Ask me about anything, I'm here to help but also to learn from you
 - 📫 You can reach me on <contact@mehmeteksi.dev>
